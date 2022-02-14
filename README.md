@@ -1,14 +1,13 @@
-### Hi there 👋, I`m Vadim!
+# Hi there 👋, I`m Vadim!
 
-### I'm a Front-End Developer
+## I'm a Front-End Developer
 
-![Hello!](./Vadim Dudkevich.png)
+![](https://github.com/Vadim-Dudkevich/Vadim-Dudkevich/blob/main/Vadim%20Dudkevich.png?raw=true)
+
+---
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
--
--
--
 
 <!--
 **Vadim-Dudkevich/Vadim-Dudkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
