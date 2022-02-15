@@ -1,8 +1,9 @@
 <h2> Hi there 👋, I`m Vadim!
 <h3>I'm a Front-End Developer</h3>
 
-<!-- ![](./Vadim%20Dudkevich.png "It's me") -->
-<img align="center" alt="HTML5" width="200px" src="./Vadim%20Dudkevich.png"/>
+![](./Vadim%20Dudkevich.png "It's me")
+
+<!-- <img align="center" alt="HTML5" width="200px" src="./Vadim%20Dudkevich.png"/> -->
 
 <br />
 
@@ -30,7 +31,7 @@
 
 [<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg"/>][linkedin]
 [<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg"/>][telegram]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/122106/email.svg"/>](mailto:v.dudkevich@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/122106/email.svg"/>](mailto:v.dudkevich@hotmail.com?subject=Send%20from%20GitHub)
 
 <br />
 <br />
