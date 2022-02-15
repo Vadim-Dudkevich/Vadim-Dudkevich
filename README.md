@@ -1,17 +1,15 @@
-# Hi there 👋, I`m Vadim!
+<h2> Hi there 👋, I`m Vadim!
+<h3>I'm a Front-End Developer</h3>
 
-## I'm a Front-End Developer
+<!-- ![](./Vadim%20Dudkevich.png "It's me") -->
+<img align="center" alt="HTML5" width="200px" src="./Vadim%20Dudkevich.png"/>
 
-![](./Vadim%20Dudkevich.png)
+<br />
 
 ---
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim-dudkevich&show_icons=true&theme=cobalt2) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-dudkevich&layout=compact)](https://github.com/Vadim-dudkevich/github-readme-stats) -->
 
 <br />
 
@@ -21,35 +19,28 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<!-- <img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> -->
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> -->
-<!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"/> -->
-<!-- <img align="left" alt="Git" width="26px" src="https://www.svgrepo.com/show/373623/git.svg"/> -->
-<img align="left" alt="npm" width="26px" src="https://www.svgrepo.com/show/373933/npm.svg"/>
-<img align="left" alt="Node.js" width="26px" src="https://www.svgrepo.com/show/355140/node.svg"/>
-<!-- <img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/> -->
 <img align="left" alt="VSCode" width="26px" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
+<img align="left" alt="Node.js" width="26px" src="https://www.svgrepo.com/show/355140/node.svg"/>
+<img align="left" alt="npm" width="26px" src="https://www.svgrepo.com/show/373933/npm.svg"/>
 
 <br />
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>][linkedin]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg"/>][linkedin]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg"/>][telegram]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/122106/email.svg"/>](mailto:v.dudkevich@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+<br />
+<br />
+<br />
+<br />
 
 [linkedin]: https://www.linkedin.com/in/vadim-dudkevich/
+[telegram]: https://t.me/vadimdudkevich
+[email]: v.dudkevich@hotmail.com
 
-<!--
-**Vadim-Dudkevich/Vadim-Dudkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim-dudkevich&show_icons=true&theme=cobalt2)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-dudkevich&layout=compact)](https://github.com/Vadim-dudkevich/github-readme-stats)
