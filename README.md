@@ -3,7 +3,7 @@
 
 <!-- ![](./Vadim%20Dudkevich.png "It's me") -->
 
-<img align="center" alt="HTML5" width="200px" src="./Vadim%20Dudkevich.png"/>
+<img align="center" alt="HTML5" width="200px" src="./VadimDudkevich.png"/>
 
 <br />
 
