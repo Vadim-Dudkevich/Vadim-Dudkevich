@@ -1,9 +1,9 @@
 <h2> Hi there 👋, I`m Vadim!
 <h3>I'm a Front-End Developer</h3>
 
-![](./Vadim%20Dudkevich.png "It's me")
+<!-- ![](./Vadim%20Dudkevich.png "It's me") -->
 
-<!-- <img align="center" alt="HTML5" width="200px" src="./Vadim%20Dudkevich.png"/> -->
+<img align="center" alt="HTML5" width="200px" src="./Vadim%20Dudkevich.png"/>
 
 <br />
 
@@ -29,9 +29,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg"/>][linkedin]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg"/>][telegram]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/122106/email.svg"/>](mailto:v.dudkevich@hotmail.com?subject=Send%20from%20GitHub)
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271118/linkedin.svg"/>][linkedin]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271106/whatsapp.svg"/>][whatsapp]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271095/messenger.svg"/>][messenger]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271091/telegram.svg"/>][telegram]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/331470/mailbox.svg"/>](mailto:v.dudkevich@hotmail.com?subject=Send%20from%20GitHub)
 
 <br />
 <br />
@@ -39,8 +41,11 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/vadim-dudkevich/
+[whatsapp]: https://wa.me/380936005006?text=Hello!%20This%20message%20was%20submitted%20from%20Github.%20
+[messenger]: https://www.messenger.com/t/vadim.dudkevich
 [telegram]: https://t.me/vadimdudkevich
-[email]: v.dudkevich@hotmail.com
+
+<!-- [email]: v.dudkevich@hotmail.com -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim-dudkevich&show_icons=true&theme=cobalt2)
 
