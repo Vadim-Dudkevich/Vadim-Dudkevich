@@ -3,16 +3,24 @@
 
 <!-- ![](./Vadim%20Dudkevich.png "It's me") -->
 
-<img align="center" alt="HTML5" width="200px" src="./VadimDudkevich.png"/>
+<img align="center" alt="HTML5" width="200px" src="./VadimDudkevich.png" />
 
+### Connect with me:
+
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271118/linkedin.svg"/>][linkedin]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271106/whatsapp.svg"/>][whatsapp]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271095/messenger.svg"/>][messenger]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271091/telegram.svg"/>][telegram]
+[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/331470/mailbox.svg"/>](mailto:v.dudkevich@hotmail.com?subject=Send%20from%20GitHub)
 <br />
+<br />
+
+![](https://komarev.com/ghpvc/?username=Vadim-dudkevich&color=yellow)
 
 ---
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-
-<br />
 
 ### Skills and Tools:
 
@@ -26,17 +34,6 @@
 
 <br />
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271118/linkedin.svg"/>][linkedin]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271106/whatsapp.svg"/>][whatsapp]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271095/messenger.svg"/>][messenger]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/271091/telegram.svg"/>][telegram]
-[<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/331470/mailbox.svg"/>](mailto:v.dudkevich@hotmail.com?subject=Send%20from%20GitHub)
-
-<br />
-<br />
 <br />
 <br />
 
@@ -47,6 +44,15 @@
 
 <!-- [email]: v.dudkevich@hotmail.com -->
 
+<!-- <details> -->
+<!-- <summary>Statistic</summary> -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim-dudkevich&show_icons=true&theme=cobalt2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-dudkevich&layout=compact)](https://github.com/Vadim-dudkevich/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-dudkevich&layout=compact)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Vadim-dudkevich&theme=onedark)](https://github.com/Vadim-dudkevich/github-profile-trophy) -->
+
+![](https://hit.yhype.me/github/profile?user_id=87948341)
+
+<!-- </details> -->
