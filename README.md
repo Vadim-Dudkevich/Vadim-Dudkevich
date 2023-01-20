@@ -7,6 +7,7 @@
 <img align="center" alt="my avatar" width="200px" src="./images/VadimDudkevich.png" />
 
 <br />
+<br />
 
 [![Button Icon]][cv]
 
