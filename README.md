@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I`m Vadim!
+<h2> Hi there 👋, my name is Vadim!
 <h3>I'm a Front-End Developer</h3>
 
 <!-- ![](./Vadim%20Dudkevich.png "It's me") -->
@@ -18,6 +18,8 @@
 [<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/331470/mailbox.svg"/>](mailto:v.dudkevich@hotmail.com?subject=Send%20from%20GitHub)
 <br />
 <br />
+
+![Profile views](https://gpvc.arturio.dev/Vadim-Dudkevich)
 
 ---
 
@@ -50,4 +52,14 @@
 
 [cv]: https://drive.google.com/file/d/1TC7HVRQMPfMBi58T6_Vwr3OzuKkUVSpH/view
 
-<!-- </details> -->
+<!-- <details>
+<summary>Statistic</summary>
+
+</details> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim-dudkevich&show_icons=true&theme=cobalt2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-dudkevich&layout=compact)](https://github.com/Vadim-dudkevich/github-readme-stats)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Vadim-dudkevich&theme=onedark)](https://github.com/Vadim-dudkevich/github-profile-trophy)
+![](https://hit.yhype.me/github/profile?user_id=87948341) -->
