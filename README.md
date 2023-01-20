@@ -52,10 +52,9 @@
 
 <!-- [button icon]: https://img.shields.io/badge/-Download%20CV-FECC00?style=for-the-badge&logoColor=white&logo=DocuSign -->
 
-[button icon]: ./svg/button_download_cv.svg
-
 <!-- [cv]: /CV_Vadim_Dudkevich.pdf -->
 
+[button icon]: ./svg/button_download_cv.svg
 [cv]: https://drive.google.com/file/d/1TC7HVRQMPfMBi58T6_Vwr3OzuKkUVSpH/view
 
 <!-- <details>
