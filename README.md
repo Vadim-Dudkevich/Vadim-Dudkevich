@@ -44,7 +44,10 @@
 [whatsapp]: https://wa.me/380936005006?text=Hello!%20This%20message%20was%20submitted%20from%20Github.%20
 [messenger]: https://www.messenger.com/t/vadim.dudkevich
 [telegram]: https://t.me/vadimdudkevich
-[button icon]: https://img.shields.io/badge/-Download%20CV-yellow?style=for-the-badge&logoColor=white&logo=DocuSign
-[cv]: /CV_Vadim_Dudkevich.pdf
+[button icon]: https://img.shields.io/badge/-Download%20CV-FECC00?style=for-the-badge&logoColor=white&logo=DocuSign
+
+<!-- [cv]: /CV_Vadim_Dudkevich.pdf -->
+
+[cv]: https://drive.google.com/file/d/1TC7HVRQMPfMBi58T6_Vwr3OzuKkUVSpH/view
 
 <!-- </details> -->
